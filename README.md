@@ -1,4 +1,4 @@
-# MalariaCapstone <br>
+# Malaria Capstone <br>
 
 An automated system can help with the early and accurate detection of malaria. Applications of automated classification techniques using Machine Learning (ML) and Artificial Intelligence (AI) have consistently shown higher accuracy than manual classification. It would therefore be highly beneficial to propose a method that performs malaria detection using Deep Learning Algorithms. Objective Build an efficient computer vision model to detect malaria. <br>
 
